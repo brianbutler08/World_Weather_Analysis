@@ -1,0 +1,162 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+0,Port Alfred,ZA,56.17,overcast clouds,-33.5906,26.891,The Halyards Hotel
+5,Simao,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+9,Barrow,US,51.82,overcast clouds,71.2906,-156.7887,King Eider Inn
+11,Saint-Augustin,CA,56.91,overcast clouds,51.226,-58.6502,
+12,Klaksvik,FO,49.12,overcast clouds,62.2266,-6.589,Airbnb rooms
+14,Antanifotsy,MG,49.32,overcast clouds,-19.65,47.3167,Ilempona
+17,Mehamn,NO,51.75,clear sky,71.0357,27.8492,Mehamn Arctic Hotel AS
+18,Hov,NO,51.75,clear sky,71.0357,27.8492,Mehamn Arctic Hotel AS
+19,Bredasdorp,ZA,56.17,overcast clouds,-33.5906,26.891,The Halyards Hotel
+20,Taolanaro,MG,49.32,overcast clouds,-19.65,47.3167,Ilempona
+22,Grigiskes,LT,61.9,clear sky,54.6833,25.0833,Tvirtove prie Didziulio
+24,Thompson,CA,56.91,overcast clouds,51.226,-58.6502,
+27,Attawapiskat,CA,56.91,overcast clouds,51.226,-58.6502,
+31,East London,ZA,56.17,overcast clouds,-33.5906,26.891,The Halyards Hotel
+36,Airai,TL,57.11,overcast clouds,-8.9266,125.4092,
+40,Kinango,KE,65.79,clear sky,-4.1372,39.3153,Legacy Hotel
+44,Cape Town,ZA,56.17,overcast clouds,-33.5906,26.891,The Halyards Hotel
+51,Nanortalik,GL,50.36,few clouds,60.1432,-45.2371,Hotel Kap Farvel
+52,Aklavik,CA,56.91,overcast clouds,51.226,-58.6502,
+56,Novopskov,UA,59.77,light rain,49.5464,39.0899,"Sanatorno-Ozdorovchyy Kompleks ""Perlyna"""
+57,Grindavik,IS,53.55,scattered clouds,63.8424,-22.4338,Northern Light Inn & Max's Restaurant
+59,Saint-Philippe,RE,65.79,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+74,Sarkikaraagac,TR,60.58,clear sky,38.0794,31.3664,Sarkikaraagac Ogretmenevi
+76,Partyzany,UA,59.77,light rain,49.5464,39.0899,"Sanatorno-Ozdorovchyy Kompleks ""Perlyna"""
+77,Hay River,CA,56.91,overcast clouds,51.226,-58.6502,
+83,Suure-Jaani,EE,55.33,few clouds,58.5361,25.4706,Pärna Holiday Center
+84,Hermanus,ZA,56.17,overcast clouds,-33.5906,26.891,The Halyards Hotel
+87,Louisbourg,CA,56.91,overcast clouds,51.226,-58.6502,
+89,Richards Bay,ZA,56.17,overcast clouds,-33.5906,26.891,The Halyards Hotel
+92,Hellvik,NO,51.75,clear sky,71.0357,27.8492,Mehamn Arctic Hotel AS
+93,Yellowknife,CA,56.91,overcast clouds,51.226,-58.6502,
+96,Tongren,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+103,Denizli,TR,60.58,clear sky,38.0794,31.3664,Sarkikaraagac Ogretmenevi
+106,Iqaluit,CA,56.91,overcast clouds,51.226,-58.6502,
+107,Tsihombe,MG,49.32,overcast clouds,-19.65,47.3167,Ilempona
+109,Ilulissat,GL,50.36,few clouds,60.1432,-45.2371,Hotel Kap Farvel
+116,Young,UY,61.32,overcast clouds,-32.6833,-57.6333,Posada Gira el Sol
+127,Port Elizabeth,ZA,56.17,overcast clouds,-33.5906,26.891,The Halyards Hotel
+135,Anshun,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+145,Tuktoyaktuk,CA,56.91,overcast clouds,51.226,-58.6502,
+151,Atikokan,CA,56.91,overcast clouds,51.226,-58.6502,
+153,Toliary,MG,49.32,overcast clouds,-19.65,47.3167,Ilempona
+154,Kiruna,SE,56.32,few clouds,67.8557,20.2251,Camp Ripan
+157,La Ronge,CA,56.91,overcast clouds,51.226,-58.6502,
+162,Lykhivka,UA,59.77,light rain,49.5464,39.0899,"Sanatorno-Ozdorovchyy Kompleks ""Perlyna"""
+168,Sept-Iles,CA,56.91,overcast clouds,51.226,-58.6502,
+171,Olafsvik,IS,53.55,scattered clouds,63.8424,-22.4338,Northern Light Inn & Max's Restaurant
+175,Bollnas,SE,56.32,few clouds,67.8557,20.2251,Camp Ripan
+177,Smithers,CA,56.91,overcast clouds,51.226,-58.6502,
+183,Ambilobe,MG,49.32,overcast clouds,-19.65,47.3167,Ilempona
+187,Tasiilaq,GL,50.36,few clouds,60.1432,-45.2371,Hotel Kap Farvel
+192,Haljala,EE,55.33,few clouds,58.5361,25.4706,Pärna Holiday Center
+194,Qasigiannguit,GL,50.36,few clouds,60.1432,-45.2371,Hotel Kap Farvel
+196,Qaanaaq,GL,50.36,few clouds,60.1432,-45.2371,Hotel Kap Farvel
+198,Yate,GB,66.97,overcast clouds,51.5407,-2.4184,The Moda House
+199,Mananjary,MG,49.32,overcast clouds,-19.65,47.3167,Ilempona
+201,Chipinge,ZW,54.72,scattered clouds,-20.1883,32.6236,Chipinge Breeze Lodge
+202,Jumla,NP,63.73,overcast clouds,29.2747,82.1838,Royal Garden Hotel
+206,Villiers,ZA,56.17,overcast clouds,-33.5906,26.891,The Halyards Hotel
+213,Linxia,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+222,Norman Wells,CA,56.91,overcast clouds,51.226,-58.6502,
+225,Prince George,CA,56.91,overcast clouds,51.226,-58.6502,
+237,Mayo,CA,56.91,overcast clouds,51.226,-58.6502,
+241,Haines Junction,CA,56.91,overcast clouds,51.226,-58.6502,
+246,Narsaq,GL,50.36,few clouds,60.1432,-45.2371,Hotel Kap Farvel
+251,Springbok,ZA,56.17,overcast clouds,-33.5906,26.891,The Halyards Hotel
+252,Outlook,CA,56.91,overcast clouds,51.226,-58.6502,
+253,Longyearbyen,SJ,48.04,broken clouds,78.2186,15.6401,"Radisson Blu Polar Hotel, Spitsbergen"
+256,Chuy,UY,61.32,overcast clouds,-32.6833,-57.6333,Posada Gira el Sol
+257,Cumra,TR,60.58,clear sky,38.0794,31.3664,Sarkikaraagac Ogretmenevi
+258,Clyde River,CA,56.91,overcast clouds,51.226,-58.6502,
+259,Lasa,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+266,Karlshamn,SE,56.32,few clouds,67.8557,20.2251,Camp Ripan
+272,Sanmenxia,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+274,Dali,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+275,Husavik,IS,53.55,scattered clouds,63.8424,-22.4338,Northern Light Inn & Max's Restaurant
+294,Sile,TR,60.58,clear sky,38.0794,31.3664,Sarkikaraagac Ogretmenevi
+297,Grand Centre,CA,56.91,overcast clouds,51.226,-58.6502,
+298,Carnarvon,ZA,56.17,overcast clouds,-33.5906,26.891,The Halyards Hotel
+303,Vestmannaeyjar,IS,53.55,scattered clouds,63.8424,-22.4338,Northern Light Inn & Max's Restaurant
+308,Hami,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+309,Berlevag,NO,51.75,clear sky,71.0357,27.8492,Mehamn Arctic Hotel AS
+310,Altay,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+313,Upernavik,GL,50.36,few clouds,60.1432,-45.2371,Hotel Kap Farvel
+317,Sioux Lookout,CA,56.91,overcast clouds,51.226,-58.6502,
+331,Saint-Donat-De-Montcalm,CA,56.91,overcast clouds,51.226,-58.6502,
+334,Visnes,NO,51.75,clear sky,71.0357,27.8492,Mehamn Arctic Hotel AS
+335,Raudeberg,NO,51.75,clear sky,71.0357,27.8492,Mehamn Arctic Hotel AS
+338,Oksfjord,NO,51.75,clear sky,71.0357,27.8492,Mehamn Arctic Hotel AS
+339,Dongsheng,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+352,Urumqi,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+353,Safranbolu,TR,60.58,clear sky,38.0794,31.3664,Sarkikaraagac Ogretmenevi
+354,Emirdag,TR,60.58,clear sky,38.0794,31.3664,Sarkikaraagac Ogretmenevi
+355,Dayong,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+364,Prince Rupert,CA,56.91,overcast clouds,51.226,-58.6502,
+366,Kathu,ZA,56.17,overcast clouds,-33.5906,26.891,The Halyards Hotel
+377,Port-Cartier,CA,56.91,overcast clouds,51.226,-58.6502,
+378,Gander,CA,56.91,overcast clouds,51.226,-58.6502,
+380,Snasa,NO,51.75,clear sky,71.0357,27.8492,Mehamn Arctic Hotel AS
+383,Wulanhaote,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+384,Ginda,IN,66.11,overcast clouds,30.6945,78.4932,Sunil Bisht
+386,Port Hardy,CA,56.91,overcast clouds,51.226,-58.6502,
+389,Xiongshi,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+390,Kruisfontein,ZA,56.17,overcast clouds,-33.5906,26.891,The Halyards Hotel
+392,Shaowu,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+395,Haibowan,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+404,Lavara,GR,66.79,clear sky,41.2667,26.3833,
+418,Maniitsoq,GL,50.36,few clouds,60.1432,-45.2371,Hotel Kap Farvel
+421,High Level,CA,56.91,overcast clouds,51.226,-58.6502,
+426,Miquelon,PM,60.8,overcast clouds,47.0975,-56.3814,Island Inn
+427,Ihosy,MG,49.32,overcast clouds,-19.65,47.3167,Ilempona
+429,Kloulklubed,TL,57.11,overcast clouds,-8.9266,125.4092,
+430,Catalina,CA,56.91,overcast clouds,51.226,-58.6502,
+437,Yumen,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+441,Torbay,CA,56.91,overcast clouds,51.226,-58.6502,
+443,Floro,NO,51.75,clear sky,71.0357,27.8492,Mehamn Arctic Hotel AS
+445,Shelburne,CA,56.91,overcast clouds,51.226,-58.6502,
+454,Campbell River,CA,56.91,overcast clouds,51.226,-58.6502,
+456,Moindou,GB,66.97,overcast clouds,51.5407,-2.4184,The Moda House
+468,Fort Nelson,CA,56.91,overcast clouds,51.226,-58.6502,
+473,Huacho,PE,64.54,scattered clouds,-11.1067,-77.605,Hotel Restaurant Turístico Casablanca
+477,Sambava,MG,49.32,overcast clouds,-19.65,47.3167,Ilempona
+483,Kitimat,CA,56.91,overcast clouds,51.226,-58.6502,
+485,Andenes,NO,51.75,clear sky,71.0357,27.8492,Mehamn Arctic Hotel AS
+490,Pouebo,GB,66.97,overcast clouds,51.5407,-2.4184,The Moda House
+493,Bud,NO,51.75,clear sky,71.0357,27.8492,Mehamn Arctic Hotel AS
+497,Stavyshche,UA,59.77,light rain,49.5464,39.0899,"Sanatorno-Ozdorovchyy Kompleks ""Perlyna"""
+499,Saldanha,ZA,56.17,overcast clouds,-33.5906,26.891,The Halyards Hotel
+501,Dauphin,CA,56.91,overcast clouds,51.226,-58.6502,
+505,Norrkoping,SE,56.32,few clouds,67.8557,20.2251,Camp Ripan
+522,Erenhot,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+524,Rocha,UY,61.32,overcast clouds,-32.6833,-57.6333,Posada Gira el Sol
+531,Yakeshi,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+533,Vardo,NO,51.75,clear sky,71.0357,27.8492,Mehamn Arctic Hotel AS
+535,Bonavista,CA,56.91,overcast clouds,51.226,-58.6502,
+542,Kuytun,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+551,Camana,PE,64.54,scattered clouds,-11.1067,-77.605,Hotel Restaurant Turístico Casablanca
+568,Ankang,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+573,Puyang,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+575,Uyuni,BO,49.8,scattered clouds,-20.4597,-66.825,Hostal La Magia de Uyuni
+577,Halifax,CA,56.91,overcast clouds,51.226,-58.6502,
+581,Margate,ZA,56.17,overcast clouds,-33.5906,26.891,The Halyards Hotel
+582,San Rafael,BO,49.8,scattered clouds,-20.4597,-66.825,Hostal La Magia de Uyuni
+586,Hudiksvall,SE,56.32,few clouds,67.8557,20.2251,Camp Ripan
+588,Zhangye,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+590,Quebec,CA,56.91,overcast clouds,51.226,-58.6502,
+600,Hailar,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+609,Hovd,MN,54.66,clear sky,48.0056,91.6419,Hotel Khovd
+616,Mananara,MG,49.32,overcast clouds,-19.65,47.3167,Ilempona
+617,Vondrozo,MG,49.32,overcast clouds,-19.65,47.3167,Ilempona
+618,Shenjiamen,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+627,Beloha,MG,49.32,overcast clouds,-19.65,47.3167,Ilempona
+628,Plettenberg Bay,ZA,56.17,overcast clouds,-33.5906,26.891,The Halyards Hotel
+633,Saint-Jerome,CA,56.91,overcast clouds,51.226,-58.6502,
+634,Stephenville Crossing,CA,56.91,overcast clouds,51.226,-58.6502,
+639,Kangaatsiaq,GL,50.36,few clouds,60.1432,-45.2371,Hotel Kap Farvel
+646,Tatarbunary,UA,59.77,light rain,49.5464,39.0899,"Sanatorno-Ozdorovchyy Kompleks ""Perlyna"""
+653,Dengzhou,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+654,Honggang,CN,65.64,overcast clouds,22.7886,100.9748,Changyu Hotel
+656,Huarmey,PE,64.54,scattered clouds,-11.1067,-77.605,Hotel Restaurant Turístico Casablanca
+659,Florina,GR,66.79,clear sky,41.2667,26.3833,
