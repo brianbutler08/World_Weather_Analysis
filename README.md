@@ -30,12 +30,4 @@ As a final element to add to the developing app, we included a feature in which 
 
 ## Additional Analysis
 
-In addition to the app development work detailed above, we also created scatter plot charts for looking at how latitude correlates with our various weather data points - 
-
-![image4](https://github.com/brianbutler08/World_Weather_Analysis/blob/main/weather_data/Fig1.png)
-
-![image5](https://github.com/brianbutler08/World_Weather_Analysis/blob/main/weather_data/Fig2.png)
-
-![image6](https://github.com/brianbutler08/World_Weather_Analysis/blob/main/weather_data/Fig3.png)
-
-![image7](https://github.com/brianbutler08/World_Weather_Analysis/blob/main/weather_data/Fig4.png)
+In addition to the app development work detailed above, we also created scatter plot charts for looking at how latitude correlates with our various weather data points - maximum temperature, humidity, cloudiness and wind speed.
